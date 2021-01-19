@@ -33,7 +33,7 @@ $result=mysqli_query($con,$q);
 		  text-transform:uppercase;
 		}
 		body{
-			background-image:url("images/11.jpg");
+			background-image:url("11.jpg");
 			
 			background-repeat: no-repeat;
 			background-size:cover;
