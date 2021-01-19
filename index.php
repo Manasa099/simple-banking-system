@@ -24,7 +24,8 @@
 
 	<div id="header">
        <br>
-       <h1 style=" font-family:Agency FB; font-size: 70px; color:#008080;text-shadow: 2px 2px black;"> Sparks Foundation web development Internship project </h1>
+       <h1 style=" font-family:Agency FB; font-size: 50px; color:#ffffff;text-shadow: 2px 2px black;"> Name : Manasa M </h1>
+       <h1 style=" font-family:Agency FB; font-size: 60px; color:#008080;text-shadow: 2px 2px black;"> Sparks Foundation web development Internship project </h1>
        <h2 style=" font-family:Agency FB; font-size: 55px;color:#00FFFF;text-shadow: 2px 2px black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic Banking System </h2>
     </div>
         <div id="section">
