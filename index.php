@@ -13,7 +13,7 @@
 		text-align:center;
 	}
 	body{
-		background-image:url("images/11.jpg");
+		background-image:url("11.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
