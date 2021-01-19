@@ -18,7 +18,7 @@ $result=mysqli_query($con,$q);
 	}
 	body{
 		background-color: rgb(47,137,158);
-		background-image:url("images/11.jpg");
+		background-image:url("11.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size:cover;
